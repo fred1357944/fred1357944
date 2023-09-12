@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there this is Fred Lai👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center"src="https://github-readme-stats.vercel.app/api?username=fred1357944&count_private=true&show_icons=true&theme=dark"/>
