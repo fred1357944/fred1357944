@@ -8,20 +8,13 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=fred1357944&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=fred1357944&layout=compact&langs_count=8&show_icons=true&theme=dark&hide_border=true&card_width=327" alt="Top Languages" />
-</a>
+<!-- Official github-readme-stats.vercel.app often returns 503; use community mirror -->
+<img align="center" height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=fred1357944&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img align="center" height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=fred1357944&layout=compact&langs_count=8&show_icons=true&theme=dark&hide_border=true&card_width=327" alt="Top Languages" />
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fred1357944&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fred1357944&theme=dark&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
-</p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fred1357944&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
