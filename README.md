@@ -54,7 +54,11 @@ I build practical tools that reduce friction in design workflows and make carbon
 
 ### 📫 Contact
 
-[![X](https://img.shields.io/badge/X-@fred1357944-000000?style=flat&logo=x&logoColor=white)](https://x.com/fred1357944)  
+[![X](https://img.shields.io/badge/X-@fred1357944-000000?style=flat&logo=x&logoColor=white)](https://x.com/fred1357944)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hung--Yi%20Lai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hung-yi-lai-8057b413b/)
+[![Instagram](https://img.shields.io/badge/Instagram-@fredhongyi-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fredhongyi/)
+[![Instagram](https://img.shields.io/badge/GH%20%2B%20Rhino-@ghandrhino-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ghandrhino)
+[![Threads](https://img.shields.io/badge/Threads-@fredhongyi-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@fredhongyi)
 [![Email](https://img.shields.io/badge/Email-fred1357944@gmail.com-2EA043?style=flat&logo=gmail&logoColor=white)](mailto:fred1357944@gmail.com)
 
 Taipei, Taiwan
